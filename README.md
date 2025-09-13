@@ -25,6 +25,7 @@ The purpose of modeling is to predict the rental price of a property based on it
 | ---------------------- | ----- | ------- | ------- |
 | Linear Regression      | 0.746 | 0.468   | 0.358   |
 | **Fine-tuned Random Forest** | **0.842** | **0.370** | **0.283** |
+
 The **Fine-tuned Random Forest** model was the clear winner, explaining more variance in rent prices (higher R²) and making more accurate predictions (lower RMSE and MAE).
 
 ---
