@@ -1,5 +1,5 @@
 # 🏘 House Rent Prediction in Machine Learning Using Python
-This project, developed for a 3rd-semester Machine Learning course, tackles the challenge of predicting house rent prices. The goal is to build a robust regression model that can **accurately estimate rent based on a variety of property features**.
+This project, developed for a 3rd-semester Machine Learning course, tackles the challenge of predicting house rent prices. The goal is to build a robust **regression model that can accurately estimate rent based on a variety of property features**.
 For landlords, this tool can help in setting competitive and fair rental prices. For tenants, it provides a benchmark to gauge if a property is priced appropriately. By leveraging machine learning, this project aims to uncover hidden patterns and complex relationships within a large real estate dataset to make reliable predictions.
 
 ---
