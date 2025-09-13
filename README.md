@@ -39,8 +39,8 @@ The **Random Forest Regressor** significantly outperformed the baseline Linear R
 ## 🛠️ Concepts
 * **Language:** Python 
 * **Core Concepts:**
-    * Exploratory Data Analysis (EDA)
-    * Feature Engineering & Scaling
+    * Exploratory Data Analysis (EDA) & Data Pre-Processing
+    * Feature Encoding and Scaling
     * Model Training (Linear Regression & Random Forest Regressor)
     * Evaluation (MAE, RMSE, R²)
     * Hyperparameter Tuning (Grid Search)
