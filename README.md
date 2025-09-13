@@ -24,6 +24,7 @@ The purpose of modeling is to predict the rental price of a property based on it
 | Model                  | R²    | RMSE    | MAE     |
 | ---------------------- | ----- | ------- | ------- |
 | Linear Regression      | 0.746 | 0.468   | 0.358   |
+| Random Forest          | 0.839 | 0.372   | 0.286   |
 | **Fine-tuned Random Forest** | **0.842** | **0.370** | **0.283** |
 
 The **Fine-tuned Random Forest** model was the clear winner, explaining more variance in rent prices (higher R²) and making more accurate predictions (lower RMSE and MAE).
@@ -41,7 +42,7 @@ The **Random Forest Regressor** significantly outperformed the baseline Linear R
     * Exploratory Data Analysis (EDA)
     * Feature Engineering & Scaling
     * Model Training (Linear Regression & Random Forest Regressor)
-    * Evaluation (MAE, RMSE, R^2)
+    * Evaluation (MAE, RMSE, R²)
     * Hyperparameter Tuning (Grid Search)
       
 ---
